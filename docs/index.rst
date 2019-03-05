@@ -1,4 +1,4 @@
-Welcome to coala API Documentation
+
 ==================================
 
 .. image:: _static/images/coala-header.png
